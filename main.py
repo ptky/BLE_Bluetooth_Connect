@@ -9,7 +9,7 @@ from bleak import BleakScanner,BleakClient
 # ez mindenkinek a sajatja ahonnan hostolja es akar uzenetet kuldeni 
 service_uuid = "12345678-1234-5678-1234-56789abcdef0"
 char_uuid = "abcdef01-2345-6789-abcd-ef0123456789"
-hard_coded_message = "Szia telefon"
+hard_coded_message = "Pumbu, horcsog"
 
 def get_info(size:int):
      qstn = int(input("Enter the number of the device you want to connect to: "))
