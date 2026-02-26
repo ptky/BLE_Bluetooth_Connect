@@ -1,4 +1,4 @@
-#file transfer via bluetooth
+#message transfer via bluetooth 
 
 # must install bleak (pip install bleak) before running
 
